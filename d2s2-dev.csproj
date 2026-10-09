@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="D2S2Library"><HintPath>C:\Users\davidgie.HSFLAD\AppData\Local\Apps\2.0\YV69J91Q.8HP\V6924C33.63V\d2s2..tion_984ae55853811835_0001.0000_09a382ea7cb1454f\D2S2Library.dll</HintPath></Reference>
+    <Reference Include="CubeSpaceLibrary"><HintPath>C:\Users\davidgie.HSFLAD\AppData\Local\Apps\2.0\YV69J91Q.8HP\V6924C33.63V\d2s2..tion_984ae55853811835_0001.0000_09a382ea7cb1454f\Plugins\CubeSpace\CubeSpaceLibrary.dll</HintPath></Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+</Project>
